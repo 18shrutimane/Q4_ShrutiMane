@@ -1,6 +1,7 @@
 # Q4_ShrutiMane
 import math  
-def dCount(n): 
+def dCount(n):
+
     LM = [1] * (n + 1); 
       
     p = 2; 
@@ -23,6 +24,7 @@ def dCount(n):
     return total;
 
 def dSum(n) : 
+
     if(n == 1): 
        return 1
   
